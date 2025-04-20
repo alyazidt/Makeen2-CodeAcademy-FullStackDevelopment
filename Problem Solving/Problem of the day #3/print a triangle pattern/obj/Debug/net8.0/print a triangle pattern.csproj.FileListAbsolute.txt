@@ -1,0 +1,15 @@
+C:\Users\alyaz\Downloads\Makeen C#\print a triangle pattern\print a triangle pattern\bin\Debug\net8.0\print a triangle pattern.exe
+C:\Users\alyaz\Downloads\Makeen C#\print a triangle pattern\print a triangle pattern\bin\Debug\net8.0\print a triangle pattern.deps.json
+C:\Users\alyaz\Downloads\Makeen C#\print a triangle pattern\print a triangle pattern\bin\Debug\net8.0\print a triangle pattern.runtimeconfig.json
+C:\Users\alyaz\Downloads\Makeen C#\print a triangle pattern\print a triangle pattern\bin\Debug\net8.0\print a triangle pattern.dll
+C:\Users\alyaz\Downloads\Makeen C#\print a triangle pattern\print a triangle pattern\bin\Debug\net8.0\print a triangle pattern.pdb
+C:\Users\alyaz\Downloads\Makeen C#\print a triangle pattern\print a triangle pattern\obj\Debug\net8.0\print a triangle pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyaz\Downloads\Makeen C#\print a triangle pattern\print a triangle pattern\obj\Debug\net8.0\print a triangle pattern.AssemblyInfoInputs.cache
+C:\Users\alyaz\Downloads\Makeen C#\print a triangle pattern\print a triangle pattern\obj\Debug\net8.0\print a triangle pattern.AssemblyInfo.cs
+C:\Users\alyaz\Downloads\Makeen C#\print a triangle pattern\print a triangle pattern\obj\Debug\net8.0\print a triangle pattern.csproj.CoreCompileInputs.cache
+C:\Users\alyaz\Downloads\Makeen C#\print a triangle pattern\print a triangle pattern\obj\Debug\net8.0\print a triangle pattern.sourcelink.json
+C:\Users\alyaz\Downloads\Makeen C#\print a triangle pattern\print a triangle pattern\obj\Debug\net8.0\print a triangle pattern.dll
+C:\Users\alyaz\Downloads\Makeen C#\print a triangle pattern\print a triangle pattern\obj\Debug\net8.0\refint\print a triangle pattern.dll
+C:\Users\alyaz\Downloads\Makeen C#\print a triangle pattern\print a triangle pattern\obj\Debug\net8.0\print a triangle pattern.pdb
+C:\Users\alyaz\Downloads\Makeen C#\print a triangle pattern\print a triangle pattern\obj\Debug\net8.0\print a triangle pattern.genruntimeconfig.cache
+C:\Users\alyaz\Downloads\Makeen C#\print a triangle pattern\print a triangle pattern\obj\Debug\net8.0\ref\print a triangle pattern.dll
