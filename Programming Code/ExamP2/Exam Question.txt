@@ -1,0 +1,4 @@
+Create a base class Animal with method MakeSound(). 
+Create two derived classes: Dog and Cat, 
+each overriding MakeSound() with a different message. 
+In the Main method, create objects and demonstrate polymorphism.

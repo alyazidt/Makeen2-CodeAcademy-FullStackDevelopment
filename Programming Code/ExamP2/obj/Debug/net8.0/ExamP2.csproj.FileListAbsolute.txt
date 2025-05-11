@@ -1,0 +1,14 @@
+E:\Makeen2Apps\ExamP2\bin\Debug\net8.0\ExamP2.exe
+E:\Makeen2Apps\ExamP2\bin\Debug\net8.0\ExamP2.deps.json
+E:\Makeen2Apps\ExamP2\bin\Debug\net8.0\ExamP2.runtimeconfig.json
+E:\Makeen2Apps\ExamP2\bin\Debug\net8.0\ExamP2.dll
+E:\Makeen2Apps\ExamP2\bin\Debug\net8.0\ExamP2.pdb
+E:\Makeen2Apps\ExamP2\obj\Debug\net8.0\ExamP2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Makeen2Apps\ExamP2\obj\Debug\net8.0\ExamP2.AssemblyInfoInputs.cache
+E:\Makeen2Apps\ExamP2\obj\Debug\net8.0\ExamP2.AssemblyInfo.cs
+E:\Makeen2Apps\ExamP2\obj\Debug\net8.0\ExamP2.csproj.CoreCompileInputs.cache
+E:\Makeen2Apps\ExamP2\obj\Debug\net8.0\ExamP2.dll
+E:\Makeen2Apps\ExamP2\obj\Debug\net8.0\refint\ExamP2.dll
+E:\Makeen2Apps\ExamP2\obj\Debug\net8.0\ExamP2.pdb
+E:\Makeen2Apps\ExamP2\obj\Debug\net8.0\ExamP2.genruntimeconfig.cache
+E:\Makeen2Apps\ExamP2\obj\Debug\net8.0\ref\ExamP2.dll
