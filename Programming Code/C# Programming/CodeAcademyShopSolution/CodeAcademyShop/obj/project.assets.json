@@ -4012,11 +4012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C# Programming\\CodeAcademyShopSolution\\CodeAcademyShop\\CodeAcademyShop.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\alyazidt\\Makeen2-CodeAcademy-FullStackDevelopment\\Programming Code\\C# Programming\\CodeAcademyShopSolution\\CodeAcademyShop\\CodeAcademyShop.csproj",
       "projectName": "CodeAcademyShop",
-      "projectPath": "E:\\C# Programming\\CodeAcademyShopSolution\\CodeAcademyShop\\CodeAcademyShop.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\alyazidt\\Makeen2-CodeAcademy-FullStackDevelopment\\Programming Code\\C# Programming\\CodeAcademyShopSolution\\CodeAcademyShop\\CodeAcademyShop.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\C# Programming\\CodeAcademyShopSolution\\CodeAcademyShop\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\alyazidt\\Makeen2-CodeAcademy-FullStackDevelopment\\Programming Code\\C# Programming\\CodeAcademyShopSolution\\CodeAcademyShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

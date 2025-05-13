@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XZMw+e14PcY=",
+  "dgSpecHash": "yA/b0dm8pos=",
   "success": true,
-  "projectFilePath": "E:\\C# Programming\\CodeAcademyShopSolution\\CodeAcademyShop\\CodeAcademyShop.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\alyazidt\\Makeen2-CodeAcademy-FullStackDevelopment\\Programming Code\\C# Programming\\CodeAcademyShopSolution\\CodeAcademyShop\\CodeAcademyShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
