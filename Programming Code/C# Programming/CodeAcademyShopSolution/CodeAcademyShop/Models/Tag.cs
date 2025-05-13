@@ -13,7 +13,7 @@ namespace CodeAcademyShop.Models
         public string Name { get; set; }
         public string? Description { get; set; }
 
-        [ForeignKey(nameof(Product_Id))]
+        [ForeignKey("Product_Id")]
         public Product product { get; set; }
         public int Product_Id { get; set; }
 

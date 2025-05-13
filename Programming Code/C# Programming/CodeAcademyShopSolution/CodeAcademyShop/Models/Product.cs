@@ -29,7 +29,7 @@ namespace CodeAcademyShop.Models
 
         public bool HasDiscount { get; set; } = false;
 
-        [ForeignKey(nameof(CategoriesId))]
+        [ForeignKey("CategoriesId")]
         public Categories categories { get; set; }
 
         public int CategoriesId { get; set; }

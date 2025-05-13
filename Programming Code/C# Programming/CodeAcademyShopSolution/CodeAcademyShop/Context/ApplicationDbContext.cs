@@ -25,26 +25,29 @@ namespace CodeAcademyShop.Context
 
         }
 
-
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-
-            modelBuilder.Entity<Product>()
-                .Property(p => p.HasDiscount)
-                .HasDefaultValue(false);
-
-
-
-            modelBuilder.Entity<Product>()
-                .Property(p => p.Descreption)
-                .IsRequired(false)
-                .HasMaxLength(60);
-
-
-            modelBuilder.Entity<Product>()
-                .HasOne<Categories>()
-                .WithMany();
+            base.OnModelCreating(modelBuilder);
         }
+        //protected override void OnModelCreating(ModelBuilder modelBuilder)
+        //{
+
+        //    modelBuilder.Entity<Product>()
+        //        .Property(p => p.HasDiscount)
+        //        .HasDefaultValue(false);
+
+
+
+        //    modelBuilder.Entity<Product>()
+        //        .Property(p => p.Descreption)
+        //        .IsRequired(false)
+        //        .HasMaxLength(60);
+
+
+        //    modelBuilder.Entity<Product>()
+        //        .HasOne<Categories>()
+        //        .WithMany();
+        //}
 
 
 
