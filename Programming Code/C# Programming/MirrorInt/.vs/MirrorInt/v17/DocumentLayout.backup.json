@@ -18,11 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -32,7 +36,7 @@
               "RelativeDocumentMoniker": "MirrorInt\\Helpers\\Globe.cs",
               "ToolTip": "C:\\Users\\Al-Yazid Al-Mukhaini\\source\\repos\\alyazidt\\Makeen2-CodeAcademy-FullStackDevelopment\\Programming Code\\C# Programming\\MirrorInt\\MirrorInt\\Helpers\\Globe.cs",
               "RelativeToolTip": "MirrorInt\\Helpers\\Globe.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwB0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T05:41:02.12Z",
               "EditorCaption": ""
@@ -43,9 +47,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Al-Yazid Al-Mukhaini\\source\\repos\\alyazidt\\Makeen2-CodeAcademy-FullStackDevelopment\\Programming Code\\C# Programming\\MirrorInt\\MirrorInt\\Program.cs",
               "RelativeDocumentMoniker": "MirrorInt\\Program.cs",
-              "ToolTip": "C:\\Users\\Al-Yazid Al-Mukhaini\\source\\repos\\alyazidt\\Makeen2-CodeAcademy-FullStackDevelopment\\Programming Code\\C# Programming\\MirrorInt\\MirrorInt\\Program.cs*",
-              "RelativeToolTip": "MirrorInt\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Al-Yazid Al-Mukhaini\\source\\repos\\alyazidt\\Makeen2-CodeAcademy-FullStackDevelopment\\Programming Code\\C# Programming\\MirrorInt\\MirrorInt\\Program.cs",
+              "RelativeToolTip": "MirrorInt\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T05:39:55.857Z",
               "EditorCaption": ""
