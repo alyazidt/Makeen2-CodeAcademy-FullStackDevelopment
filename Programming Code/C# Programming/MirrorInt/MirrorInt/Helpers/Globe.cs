@@ -17,6 +17,18 @@ namespace MirrorInt.Helpers
             return result;
 
 
+
+
+
+
+        }
+
+
+        public static string MirrorInt(string x)
+        {
+            var str1 = x.ToCharArray();
+            Array.Reverse(str1);
+            return new string(str1);
         }
 
     }

@@ -7,8 +7,11 @@ namespace MirrorInt
         static void Main(string[] args)
         {
             int x = 12345;
-            string res = Globe.Mirror(x);
-            Console.WriteLine(res);
+            Console.WriteLine(Globe.Mirror(x));
+
+
+            string y = "alyazid";
+            Console.WriteLine(Globe.MirrorInt(y));
         }
     }
 }
