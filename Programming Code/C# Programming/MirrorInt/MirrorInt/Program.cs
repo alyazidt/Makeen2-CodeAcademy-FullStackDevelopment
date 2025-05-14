@@ -7,11 +7,11 @@ namespace MirrorInt
         static void Main(string[] args)
         {
             int x = 12345;
-            Console.WriteLine(Globe.Mirror(x));
+            Console.WriteLine($"The Reverse of the number : {x} = {Globe.MirrorInt(x)}");
 
 
             string y = "alyazid";
-            Console.WriteLine(Globe.MirrorInt(y));
+            Console.WriteLine($"\nThe Reverse of the string : {y} = {Globe.MirrorString(y)}");
         }
     }
 }

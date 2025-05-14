@@ -8,23 +8,19 @@ namespace MirrorInt.Helpers
 {
     public static class Globe
     {
-
-        public static string Mirror(int x)
+        // Integr Mirror
+        public static string MirrorInt(int x)
         {
             var str = x.ToString().ToArray();
             Array.Reverse(str);
             var result = new string(str);
             return result;
 
-
-
-
-
-
         }
 
 
-        public static string MirrorInt(string x)
+        // String Mirror
+        public static string MirrorString(string x)
         {
             var str1 = x.ToCharArray();
             Array.Reverse(str1);
