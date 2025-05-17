@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("print a triangle pattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19ae1b091f50a7398f6bb51b7e624c8a9a884c45")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+795bd8ed439845d7e0bbe0cb6038378fbdfcad5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("print a triangle pattern")]
 [assembly: System.Reflection.AssemblyTitleAttribute("print a triangle pattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
